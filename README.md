@@ -58,7 +58,7 @@ Based on the Kickstarter Dataset,
 
      2. Plays Outcomes Based on Goals
           1.How to use CountIfs() function as per the range given.
-           -It was time consuming and difficult to understand.
+            -It was time consuming and difficult to understand.
 
           2.How to include "%" symbol on y axis in the line chart.  
 
