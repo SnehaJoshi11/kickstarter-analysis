@@ -1,9 +1,9 @@
 # Kickstarting with Excel
 ## Overview of Project
 <p>
-As per the Kickstarter Dataset, 
+Based on the Kickstarter Dataset, 
      It has information about the "Shows/Programs" which are held in different countries with their goals, 
-     pledge funding and outcomes if they(shows) are successful or failed?
+     pledge funding and outcomes if they(shows) are successful or failed.
      Those comes under various categories e.g., film, theater, television, animation etc.
 </P>
 
